@@ -41,7 +41,3 @@ For the FreeSpace port the filename is inertia-ship.tbm, but it is otherwise the
 ## Disclaimer
 
 I generated the python scripts with AI and I also did some editing of the files with AI so that i do not need edit the file by hand, which would have taken so long that I would not have done it at all. Again it's just a fun project play around with.
-
-## License
-
-[GPL](https://choosealicense.com/licenses/gpl-3.0/)
