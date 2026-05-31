@@ -30,7 +30,7 @@ I did these changes for all player ships.
 1. Place the ships.tbl in the installed FS2 mod folder `FS2\MVPS-5.0.2\data\tables\`.
     - Create the `tables` folder if it does not exist.
 2. Start FreeSpace Open and assign the hotkeys for up, down, and sideways movement aswell as Glide.
-3. If you want to use the mod with the FreeSpace port do the same thing with the inertia-ship.tbm in `FS2\fsport-mediavps-4.7.2\data\tables\`.
+3. If you want to use the mod with the FreeSpace port do the same thing with the `inertia-ship.tbm in` `FS2\fsport-mediavps-4.7.2\data\tables\`.
 
 Change the version number respectively.
 
